@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\immutableValues\immutableValues\bin\Debug\net5.0\immutableValues.exe
+C:\Users\abuha\source\repos\immutableValues\immutableValues\bin\Debug\net5.0\immutableValues.deps.json
+C:\Users\abuha\source\repos\immutableValues\immutableValues\bin\Debug\net5.0\immutableValues.runtimeconfig.json
+C:\Users\abuha\source\repos\immutableValues\immutableValues\bin\Debug\net5.0\immutableValues.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\immutableValues\immutableValues\bin\Debug\net5.0\immutableValues.dll
+C:\Users\abuha\source\repos\immutableValues\immutableValues\bin\Debug\net5.0\immutableValues.pdb
+C:\Users\abuha\source\repos\immutableValues\immutableValues\obj\Debug\net5.0\immutableValues.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\immutableValues\immutableValues\obj\Debug\net5.0\immutableValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\immutableValues\immutableValues\obj\Debug\net5.0\immutableValues.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\immutableValues\immutableValues\obj\Debug\net5.0\immutableValues.AssemblyInfo.cs
+C:\Users\abuha\source\repos\immutableValues\immutableValues\obj\Debug\net5.0\immutableValues.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\immutableValues\immutableValues\obj\Debug\net5.0\immutableValues.dll
+C:\Users\abuha\source\repos\immutableValues\immutableValues\obj\Debug\net5.0\refint\immutableValues.dll
+C:\Users\abuha\source\repos\immutableValues\immutableValues\obj\Debug\net5.0\immutableValues.pdb
+C:\Users\abuha\source\repos\immutableValues\immutableValues\obj\Debug\net5.0\immutableValues.genruntimeconfig.cache
+C:\Users\abuha\source\repos\immutableValues\immutableValues\obj\Debug\net5.0\ref\immutableValues.dll

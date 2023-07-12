@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\bin\Debug\net5.0\ternaryOperatorChallenge.exe
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\bin\Debug\net5.0\ternaryOperatorChallenge.deps.json
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\bin\Debug\net5.0\ternaryOperatorChallenge.runtimeconfig.json
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\bin\Debug\net5.0\ternaryOperatorChallenge.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\bin\Debug\net5.0\ternaryOperatorChallenge.dll
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\bin\Debug\net5.0\ternaryOperatorChallenge.pdb
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\obj\Debug\net5.0\ternaryOperatorChallenge.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\obj\Debug\net5.0\ternaryOperatorChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\obj\Debug\net5.0\ternaryOperatorChallenge.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\obj\Debug\net5.0\ternaryOperatorChallenge.AssemblyInfo.cs
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\obj\Debug\net5.0\ternaryOperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\obj\Debug\net5.0\ternaryOperatorChallenge.dll
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\obj\Debug\net5.0\refint\ternaryOperatorChallenge.dll
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\obj\Debug\net5.0\ternaryOperatorChallenge.pdb
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\obj\Debug\net5.0\ternaryOperatorChallenge.genruntimeconfig.cache
+C:\Users\abuha\source\repos\ternaryOperatorChallenge\ternaryOperatorChallenge\obj\Debug\net5.0\ref\ternaryOperatorChallenge.dll

@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\forLoops\forLoops\bin\Debug\net5.0\forLoops.exe
+C:\Users\abuha\source\repos\forLoops\forLoops\bin\Debug\net5.0\forLoops.deps.json
+C:\Users\abuha\source\repos\forLoops\forLoops\bin\Debug\net5.0\forLoops.runtimeconfig.json
+C:\Users\abuha\source\repos\forLoops\forLoops\bin\Debug\net5.0\forLoops.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\forLoops\forLoops\bin\Debug\net5.0\forLoops.dll
+C:\Users\abuha\source\repos\forLoops\forLoops\bin\Debug\net5.0\forLoops.pdb
+C:\Users\abuha\source\repos\forLoops\forLoops\obj\Debug\net5.0\forLoops.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\forLoops\forLoops\obj\Debug\net5.0\forLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\forLoops\forLoops\obj\Debug\net5.0\forLoops.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\forLoops\forLoops\obj\Debug\net5.0\forLoops.AssemblyInfo.cs
+C:\Users\abuha\source\repos\forLoops\forLoops\obj\Debug\net5.0\forLoops.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\forLoops\forLoops\obj\Debug\net5.0\forLoops.dll
+C:\Users\abuha\source\repos\forLoops\forLoops\obj\Debug\net5.0\refint\forLoops.dll
+C:\Users\abuha\source\repos\forLoops\forLoops\obj\Debug\net5.0\forLoops.pdb
+C:\Users\abuha\source\repos\forLoops\forLoops\obj\Debug\net5.0\forLoops.genruntimeconfig.cache
+C:\Users\abuha\source\repos\forLoops\forLoops\obj\Debug\net5.0\ref\forLoops.dll

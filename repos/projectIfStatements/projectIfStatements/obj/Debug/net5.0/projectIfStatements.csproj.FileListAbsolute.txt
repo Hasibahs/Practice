@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\bin\Debug\net5.0\projectIfStatements.exe
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\bin\Debug\net5.0\projectIfStatements.deps.json
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\bin\Debug\net5.0\projectIfStatements.runtimeconfig.json
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\bin\Debug\net5.0\projectIfStatements.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\bin\Debug\net5.0\projectIfStatements.dll
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\bin\Debug\net5.0\projectIfStatements.pdb
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\obj\Debug\net5.0\projectIfStatements.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\obj\Debug\net5.0\projectIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\obj\Debug\net5.0\projectIfStatements.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\obj\Debug\net5.0\projectIfStatements.AssemblyInfo.cs
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\obj\Debug\net5.0\projectIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\obj\Debug\net5.0\projectIfStatements.dll
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\obj\Debug\net5.0\refint\projectIfStatements.dll
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\obj\Debug\net5.0\projectIfStatements.pdb
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\obj\Debug\net5.0\projectIfStatements.genruntimeconfig.cache
+C:\Users\abuha\source\repos\projectIfStatements\projectIfStatements\obj\Debug\net5.0\ref\projectIfStatements.dll

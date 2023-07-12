@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\bin\Debug\net5.0\nestedIfStatements.exe
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\bin\Debug\net5.0\nestedIfStatements.deps.json
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\bin\Debug\net5.0\nestedIfStatements.runtimeconfig.json
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\bin\Debug\net5.0\nestedIfStatements.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\bin\Debug\net5.0\nestedIfStatements.dll
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\bin\Debug\net5.0\nestedIfStatements.pdb
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\obj\Debug\net5.0\nestedIfStatements.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\obj\Debug\net5.0\nestedIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\obj\Debug\net5.0\nestedIfStatements.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\obj\Debug\net5.0\nestedIfStatements.AssemblyInfo.cs
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\obj\Debug\net5.0\nestedIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\obj\Debug\net5.0\nestedIfStatements.dll
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\obj\Debug\net5.0\refint\nestedIfStatements.dll
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\obj\Debug\net5.0\nestedIfStatements.pdb
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\obj\Debug\net5.0\nestedIfStatements.genruntimeconfig.cache
+C:\Users\abuha\source\repos\nestedIfStatements\nestedIfStatements\obj\Debug\net5.0\ref\nestedIfStatements.dll

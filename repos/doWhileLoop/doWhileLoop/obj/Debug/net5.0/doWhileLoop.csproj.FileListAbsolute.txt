@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\bin\Debug\net5.0\doWhileLoop.exe
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\bin\Debug\net5.0\doWhileLoop.deps.json
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\bin\Debug\net5.0\doWhileLoop.runtimeconfig.json
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\bin\Debug\net5.0\doWhileLoop.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\bin\Debug\net5.0\doWhileLoop.dll
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\bin\Debug\net5.0\doWhileLoop.pdb
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\obj\Debug\net5.0\doWhileLoop.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\obj\Debug\net5.0\doWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\obj\Debug\net5.0\doWhileLoop.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\obj\Debug\net5.0\doWhileLoop.AssemblyInfo.cs
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\obj\Debug\net5.0\doWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\obj\Debug\net5.0\doWhileLoop.dll
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\obj\Debug\net5.0\refint\doWhileLoop.dll
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\obj\Debug\net5.0\doWhileLoop.pdb
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\obj\Debug\net5.0\doWhileLoop.genruntimeconfig.cache
+C:\Users\abuha\source\repos\doWhileLoop\doWhileLoop\obj\Debug\net5.0\ref\doWhileLoop.dll

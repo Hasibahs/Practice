@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\bin\Debug\net5.0\methodWithInt.exe
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\bin\Debug\net5.0\methodWithInt.deps.json
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\bin\Debug\net5.0\methodWithInt.runtimeconfig.json
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\bin\Debug\net5.0\methodWithInt.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\bin\Debug\net5.0\methodWithInt.dll
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\bin\Debug\net5.0\methodWithInt.pdb
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\obj\Debug\net5.0\methodWithInt.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\obj\Debug\net5.0\methodWithInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\obj\Debug\net5.0\methodWithInt.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\obj\Debug\net5.0\methodWithInt.AssemblyInfo.cs
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\obj\Debug\net5.0\methodWithInt.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\obj\Debug\net5.0\methodWithInt.dll
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\obj\Debug\net5.0\refint\methodWithInt.dll
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\obj\Debug\net5.0\methodWithInt.pdb
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\obj\Debug\net5.0\methodWithInt.genruntimeconfig.cache
+C:\Users\abuha\source\repos\methodWithInt\methodWithInt\obj\Debug\net5.0\ref\methodWithInt.dll

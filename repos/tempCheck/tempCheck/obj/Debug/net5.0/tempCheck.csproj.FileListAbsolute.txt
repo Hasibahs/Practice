@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\tempCheck\tempCheck\bin\Debug\net5.0\tempCheck.exe
+C:\Users\abuha\source\repos\tempCheck\tempCheck\bin\Debug\net5.0\tempCheck.deps.json
+C:\Users\abuha\source\repos\tempCheck\tempCheck\bin\Debug\net5.0\tempCheck.runtimeconfig.json
+C:\Users\abuha\source\repos\tempCheck\tempCheck\bin\Debug\net5.0\tempCheck.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\tempCheck\tempCheck\bin\Debug\net5.0\tempCheck.dll
+C:\Users\abuha\source\repos\tempCheck\tempCheck\bin\Debug\net5.0\tempCheck.pdb
+C:\Users\abuha\source\repos\tempCheck\tempCheck\obj\Debug\net5.0\tempCheck.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\tempCheck\tempCheck\obj\Debug\net5.0\tempCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\tempCheck\tempCheck\obj\Debug\net5.0\tempCheck.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\tempCheck\tempCheck\obj\Debug\net5.0\tempCheck.AssemblyInfo.cs
+C:\Users\abuha\source\repos\tempCheck\tempCheck\obj\Debug\net5.0\tempCheck.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\tempCheck\tempCheck\obj\Debug\net5.0\tempCheck.dll
+C:\Users\abuha\source\repos\tempCheck\tempCheck\obj\Debug\net5.0\refint\tempCheck.dll
+C:\Users\abuha\source\repos\tempCheck\tempCheck\obj\Debug\net5.0\tempCheck.pdb
+C:\Users\abuha\source\repos\tempCheck\tempCheck\obj\Debug\net5.0\tempCheck.genruntimeconfig.cache
+C:\Users\abuha\source\repos\tempCheck\tempCheck\obj\Debug\net5.0\ref\tempCheck.dll

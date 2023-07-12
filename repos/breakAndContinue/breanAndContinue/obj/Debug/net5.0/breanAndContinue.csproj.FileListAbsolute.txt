@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\bin\Debug\net5.0\breanAndContinue.exe
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\bin\Debug\net5.0\breanAndContinue.deps.json
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\bin\Debug\net5.0\breanAndContinue.runtimeconfig.json
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\bin\Debug\net5.0\breanAndContinue.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\bin\Debug\net5.0\breanAndContinue.dll
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\bin\Debug\net5.0\breanAndContinue.pdb
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\obj\Debug\net5.0\breanAndContinue.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\obj\Debug\net5.0\breanAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\obj\Debug\net5.0\breanAndContinue.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\obj\Debug\net5.0\breanAndContinue.AssemblyInfo.cs
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\obj\Debug\net5.0\breanAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\obj\Debug\net5.0\breanAndContinue.dll
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\obj\Debug\net5.0\refint\breanAndContinue.dll
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\obj\Debug\net5.0\breanAndContinue.pdb
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\obj\Debug\net5.0\breanAndContinue.genruntimeconfig.cache
+C:\Users\abuha\source\repos\breanAndContinue\breanAndContinue\obj\Debug\net5.0\ref\breanAndContinue.dll

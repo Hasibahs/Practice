@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\bin\Debug\net5.0\classesAndObjects.exe
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\bin\Debug\net5.0\classesAndObjects.deps.json
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\bin\Debug\net5.0\classesAndObjects.runtimeconfig.json
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\bin\Debug\net5.0\classesAndObjects.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\bin\Debug\net5.0\classesAndObjects.dll
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\bin\Debug\net5.0\classesAndObjects.pdb
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\obj\Debug\net5.0\classesAndObjects.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\obj\Debug\net5.0\classesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\obj\Debug\net5.0\classesAndObjects.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\obj\Debug\net5.0\classesAndObjects.AssemblyInfo.cs
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\obj\Debug\net5.0\classesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\obj\Debug\net5.0\classesAndObjects.dll
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\obj\Debug\net5.0\refint\classesAndObjects.dll
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\obj\Debug\net5.0\classesAndObjects.pdb
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\obj\Debug\net5.0\classesAndObjects.genruntimeconfig.cache
+C:\Users\abuha\source\repos\classesAndObjects\classesAndObjects\obj\Debug\net5.0\ref\classesAndObjects.dll

@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\bin\Debug\net5.0\methodChallenge1.exe
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\bin\Debug\net5.0\methodChallenge1.deps.json
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\bin\Debug\net5.0\methodChallenge1.runtimeconfig.json
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\bin\Debug\net5.0\methodChallenge1.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\bin\Debug\net5.0\methodChallenge1.dll
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\bin\Debug\net5.0\methodChallenge1.pdb
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\obj\Debug\net5.0\methodChallenge1.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\obj\Debug\net5.0\methodChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\obj\Debug\net5.0\methodChallenge1.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\obj\Debug\net5.0\methodChallenge1.AssemblyInfo.cs
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\obj\Debug\net5.0\methodChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\obj\Debug\net5.0\methodChallenge1.dll
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\obj\Debug\net5.0\refint\methodChallenge1.dll
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\obj\Debug\net5.0\methodChallenge1.pdb
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\obj\Debug\net5.0\methodChallenge1.genruntimeconfig.cache
+C:\Users\abuha\source\repos\methodChallenge1\methodChallenge1\obj\Debug\net5.0\ref\methodChallenge1.dll

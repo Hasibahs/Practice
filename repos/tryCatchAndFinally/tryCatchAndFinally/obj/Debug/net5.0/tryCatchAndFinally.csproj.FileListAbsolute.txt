@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\bin\Debug\net5.0\tryCatchAndFinally.exe
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\bin\Debug\net5.0\tryCatchAndFinally.deps.json
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\bin\Debug\net5.0\tryCatchAndFinally.runtimeconfig.json
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\bin\Debug\net5.0\tryCatchAndFinally.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\bin\Debug\net5.0\tryCatchAndFinally.dll
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\bin\Debug\net5.0\tryCatchAndFinally.pdb
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\obj\Debug\net5.0\tryCatchAndFinally.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\obj\Debug\net5.0\tryCatchAndFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\obj\Debug\net5.0\tryCatchAndFinally.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\obj\Debug\net5.0\tryCatchAndFinally.AssemblyInfo.cs
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\obj\Debug\net5.0\tryCatchAndFinally.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\obj\Debug\net5.0\tryCatchAndFinally.dll
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\obj\Debug\net5.0\refint\tryCatchAndFinally.dll
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\obj\Debug\net5.0\tryCatchAndFinally.pdb
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\obj\Debug\net5.0\tryCatchAndFinally.genruntimeconfig.cache
+C:\Users\abuha\source\repos\tryCatchAndFinally\tryCatchAndFinally\obj\Debug\net5.0\ref\tryCatchAndFinally.dll

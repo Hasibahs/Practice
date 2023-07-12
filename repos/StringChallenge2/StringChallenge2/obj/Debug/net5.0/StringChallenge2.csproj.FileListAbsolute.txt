@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\bin\Debug\net5.0\StringChallenge2.exe
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\bin\Debug\net5.0\StringChallenge2.deps.json
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\bin\Debug\net5.0\StringChallenge2.runtimeconfig.json
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\bin\Debug\net5.0\StringChallenge2.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\bin\Debug\net5.0\StringChallenge2.dll
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\bin\Debug\net5.0\StringChallenge2.pdb
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\obj\Debug\net5.0\StringChallenge2.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\obj\Debug\net5.0\StringChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\obj\Debug\net5.0\StringChallenge2.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\obj\Debug\net5.0\StringChallenge2.AssemblyInfo.cs
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\obj\Debug\net5.0\StringChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\obj\Debug\net5.0\StringChallenge2.dll
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\obj\Debug\net5.0\refint\StringChallenge2.dll
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\obj\Debug\net5.0\StringChallenge2.pdb
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\obj\Debug\net5.0\StringChallenge2.genruntimeconfig.cache
+C:\Users\abuha\source\repos\StringChallenge2\StringChallenge2\obj\Debug\net5.0\ref\StringChallenge2.dll

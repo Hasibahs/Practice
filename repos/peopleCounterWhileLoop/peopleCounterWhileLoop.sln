@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "peopleCounterWhileLoop", "peopleCounterWhileLoop\peopleCounterWhileLoop.csproj", "{9DC01CAB-4AFD-4EB1-AF6E-2DE9C8D33543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC01CAB-4AFD-4EB1-AF6E-2DE9C8D33543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC01CAB-4AFD-4EB1-AF6E-2DE9C8D33543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC01CAB-4AFD-4EB1-AF6E-2DE9C8D33543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC01CAB-4AFD-4EB1-AF6E-2DE9C8D33543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8F00D4-ABCB-4953-8F4B-287B627AE5DA}
+	EndGlobalSection
+EndGlobal

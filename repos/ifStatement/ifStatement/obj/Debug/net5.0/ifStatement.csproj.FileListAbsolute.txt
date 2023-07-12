@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\ifStatement\ifStatement\bin\Debug\net5.0\ifStatement.exe
+C:\Users\abuha\source\repos\ifStatement\ifStatement\bin\Debug\net5.0\ifStatement.deps.json
+C:\Users\abuha\source\repos\ifStatement\ifStatement\bin\Debug\net5.0\ifStatement.runtimeconfig.json
+C:\Users\abuha\source\repos\ifStatement\ifStatement\bin\Debug\net5.0\ifStatement.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\ifStatement\ifStatement\bin\Debug\net5.0\ifStatement.dll
+C:\Users\abuha\source\repos\ifStatement\ifStatement\bin\Debug\net5.0\ifStatement.pdb
+C:\Users\abuha\source\repos\ifStatement\ifStatement\obj\Debug\net5.0\ifStatement.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\ifStatement\ifStatement\obj\Debug\net5.0\ifStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\ifStatement\ifStatement\obj\Debug\net5.0\ifStatement.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\ifStatement\ifStatement\obj\Debug\net5.0\ifStatement.AssemblyInfo.cs
+C:\Users\abuha\source\repos\ifStatement\ifStatement\obj\Debug\net5.0\ifStatement.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\ifStatement\ifStatement\obj\Debug\net5.0\ifStatement.dll
+C:\Users\abuha\source\repos\ifStatement\ifStatement\obj\Debug\net5.0\refint\ifStatement.dll
+C:\Users\abuha\source\repos\ifStatement\ifStatement\obj\Debug\net5.0\ifStatement.pdb
+C:\Users\abuha\source\repos\ifStatement\ifStatement\obj\Debug\net5.0\ifStatement.genruntimeconfig.cache
+C:\Users\abuha\source\repos\ifStatement\ifStatement\obj\Debug\net5.0\ref\ifStatement.dll

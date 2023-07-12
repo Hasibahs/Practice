@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\voidMethod\voidMethod\bin\Debug\net5.0\voidMethod.exe
+C:\Users\abuha\source\repos\voidMethod\voidMethod\bin\Debug\net5.0\voidMethod.deps.json
+C:\Users\abuha\source\repos\voidMethod\voidMethod\bin\Debug\net5.0\voidMethod.runtimeconfig.json
+C:\Users\abuha\source\repos\voidMethod\voidMethod\bin\Debug\net5.0\voidMethod.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\voidMethod\voidMethod\bin\Debug\net5.0\voidMethod.dll
+C:\Users\abuha\source\repos\voidMethod\voidMethod\bin\Debug\net5.0\voidMethod.pdb
+C:\Users\abuha\source\repos\voidMethod\voidMethod\obj\Debug\net5.0\voidMethod.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\voidMethod\voidMethod\obj\Debug\net5.0\voidMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\voidMethod\voidMethod\obj\Debug\net5.0\voidMethod.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\voidMethod\voidMethod\obj\Debug\net5.0\voidMethod.AssemblyInfo.cs
+C:\Users\abuha\source\repos\voidMethod\voidMethod\obj\Debug\net5.0\voidMethod.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\voidMethod\voidMethod\obj\Debug\net5.0\voidMethod.dll
+C:\Users\abuha\source\repos\voidMethod\voidMethod\obj\Debug\net5.0\refint\voidMethod.dll
+C:\Users\abuha\source\repos\voidMethod\voidMethod\obj\Debug\net5.0\voidMethod.pdb
+C:\Users\abuha\source\repos\voidMethod\voidMethod\obj\Debug\net5.0\voidMethod.genruntimeconfig.cache
+C:\Users\abuha\source\repos\voidMethod\voidMethod\obj\Debug\net5.0\ref\voidMethod.dll

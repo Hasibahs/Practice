@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\bin\Debug\net5.0\peopleCounterWhileLoop.exe
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\bin\Debug\net5.0\peopleCounterWhileLoop.deps.json
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\bin\Debug\net5.0\peopleCounterWhileLoop.runtimeconfig.json
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\bin\Debug\net5.0\peopleCounterWhileLoop.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\bin\Debug\net5.0\peopleCounterWhileLoop.dll
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\bin\Debug\net5.0\peopleCounterWhileLoop.pdb
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\obj\Debug\net5.0\peopleCounterWhileLoop.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\obj\Debug\net5.0\peopleCounterWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\obj\Debug\net5.0\peopleCounterWhileLoop.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\obj\Debug\net5.0\peopleCounterWhileLoop.AssemblyInfo.cs
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\obj\Debug\net5.0\peopleCounterWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\obj\Debug\net5.0\peopleCounterWhileLoop.dll
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\obj\Debug\net5.0\refint\peopleCounterWhileLoop.dll
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\obj\Debug\net5.0\peopleCounterWhileLoop.pdb
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\obj\Debug\net5.0\peopleCounterWhileLoop.genruntimeconfig.cache
+C:\Users\abuha\source\repos\peopleCounterWhileLoop\peopleCounterWhileLoop\obj\Debug\net5.0\ref\peopleCounterWhileLoop.dll

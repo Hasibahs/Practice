@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\accessModifier\accessModifier\bin\Debug\net5.0\accessModifier.exe
+C:\Users\abuha\source\repos\accessModifier\accessModifier\bin\Debug\net5.0\accessModifier.deps.json
+C:\Users\abuha\source\repos\accessModifier\accessModifier\bin\Debug\net5.0\accessModifier.runtimeconfig.json
+C:\Users\abuha\source\repos\accessModifier\accessModifier\bin\Debug\net5.0\accessModifier.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\accessModifier\accessModifier\bin\Debug\net5.0\accessModifier.dll
+C:\Users\abuha\source\repos\accessModifier\accessModifier\bin\Debug\net5.0\accessModifier.pdb
+C:\Users\abuha\source\repos\accessModifier\accessModifier\obj\Debug\net5.0\accessModifier.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\accessModifier\accessModifier\obj\Debug\net5.0\accessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\accessModifier\accessModifier\obj\Debug\net5.0\accessModifier.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\accessModifier\accessModifier\obj\Debug\net5.0\accessModifier.AssemblyInfo.cs
+C:\Users\abuha\source\repos\accessModifier\accessModifier\obj\Debug\net5.0\accessModifier.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\accessModifier\accessModifier\obj\Debug\net5.0\accessModifier.dll
+C:\Users\abuha\source\repos\accessModifier\accessModifier\obj\Debug\net5.0\refint\accessModifier.dll
+C:\Users\abuha\source\repos\accessModifier\accessModifier\obj\Debug\net5.0\accessModifier.pdb
+C:\Users\abuha\source\repos\accessModifier\accessModifier\obj\Debug\net5.0\accessModifier.genruntimeconfig.cache
+C:\Users\abuha\source\repos\accessModifier\accessModifier\obj\Debug\net5.0\ref\accessModifier.dll

@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\bin\Debug\net5.0\allDataTypes.exe
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\bin\Debug\net5.0\allDataTypes.deps.json
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\bin\Debug\net5.0\allDataTypes.runtimeconfig.json
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\bin\Debug\net5.0\allDataTypes.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\bin\Debug\net5.0\allDataTypes.dll
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\bin\Debug\net5.0\allDataTypes.pdb
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\obj\Debug\net5.0\allDataTypes.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\obj\Debug\net5.0\allDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\obj\Debug\net5.0\allDataTypes.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\obj\Debug\net5.0\allDataTypes.AssemblyInfo.cs
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\obj\Debug\net5.0\allDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\obj\Debug\net5.0\allDataTypes.dll
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\obj\Debug\net5.0\refint\allDataTypes.dll
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\obj\Debug\net5.0\allDataTypes.pdb
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\obj\Debug\net5.0\allDataTypes.genruntimeconfig.cache
+C:\Users\abuha\source\repos\allDataTypes\allDataTypes\obj\Debug\net5.0\ref\allDataTypes.dll

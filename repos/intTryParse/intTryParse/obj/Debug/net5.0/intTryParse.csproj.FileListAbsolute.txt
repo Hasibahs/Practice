@@ -1,0 +1,16 @@
+C:\Users\abuha\source\repos\intTryParse\intTryParse\bin\Debug\net5.0\intTryParse.exe
+C:\Users\abuha\source\repos\intTryParse\intTryParse\bin\Debug\net5.0\intTryParse.deps.json
+C:\Users\abuha\source\repos\intTryParse\intTryParse\bin\Debug\net5.0\intTryParse.runtimeconfig.json
+C:\Users\abuha\source\repos\intTryParse\intTryParse\bin\Debug\net5.0\intTryParse.runtimeconfig.dev.json
+C:\Users\abuha\source\repos\intTryParse\intTryParse\bin\Debug\net5.0\intTryParse.dll
+C:\Users\abuha\source\repos\intTryParse\intTryParse\bin\Debug\net5.0\intTryParse.pdb
+C:\Users\abuha\source\repos\intTryParse\intTryParse\obj\Debug\net5.0\intTryParse.csproj.AssemblyReference.cache
+C:\Users\abuha\source\repos\intTryParse\intTryParse\obj\Debug\net5.0\intTryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abuha\source\repos\intTryParse\intTryParse\obj\Debug\net5.0\intTryParse.AssemblyInfoInputs.cache
+C:\Users\abuha\source\repos\intTryParse\intTryParse\obj\Debug\net5.0\intTryParse.AssemblyInfo.cs
+C:\Users\abuha\source\repos\intTryParse\intTryParse\obj\Debug\net5.0\intTryParse.csproj.CoreCompileInputs.cache
+C:\Users\abuha\source\repos\intTryParse\intTryParse\obj\Debug\net5.0\intTryParse.dll
+C:\Users\abuha\source\repos\intTryParse\intTryParse\obj\Debug\net5.0\refint\intTryParse.dll
+C:\Users\abuha\source\repos\intTryParse\intTryParse\obj\Debug\net5.0\intTryParse.pdb
+C:\Users\abuha\source\repos\intTryParse\intTryParse\obj\Debug\net5.0\intTryParse.genruntimeconfig.cache
+C:\Users\abuha\source\repos\intTryParse\intTryParse\obj\Debug\net5.0\ref\intTryParse.dll
