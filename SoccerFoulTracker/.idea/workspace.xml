@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7073c449-3041-4b57-9afc-86b4a9309516" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/Main/Main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/Main/java/InputHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPractice/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoccerFoulTracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/java/CardManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/java/InputHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/java/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/java/TeamManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Java/PlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Java/TeamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abc/SoccerFoulsTracker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPractice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPractice/.idea/libraries/junit_jupiter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPractice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPractice/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPractice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPractice/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPractice/src/Main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPractice/src/Main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPractice/src/Main/java/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/java/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPractice/src/Main/java/TeamManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPractice/src/Main/java/TeamManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPractice/src/test/Java/PlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPractice/src/test/Java/PlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPractice/src/test/Java/TeamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPractice/src/test/Java/TeamTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2bT4LcQsaxD3SEObMoLbWoCTpUY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Java__practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/abuha/source/Practice/SoccerFoulTracker/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="test.Java in SoccerFoulTracker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoccerFoulTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.Java" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.Java in SoccerFoulTracker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7073c449-3041-4b57-9afc-86b4a9309516" name="Changes" comment="" />
+      <created>1706225682203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706225682203</updated>
+      <workItem from="1706225683250" duration="404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
