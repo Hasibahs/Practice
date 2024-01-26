@@ -1,5 +1,3 @@
-// Removed the import statement for Player since we're not using packages
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
@@ -14,21 +12,22 @@ class PlayerTest {
 
     @Test
     void testAddYellowCard() {
-        player.addYellowCard();
-        assertEquals(1, player.getYellowCards());
+        player.addCard("YELLOW");
+        assertEquals(1, player.getCardCount("YELLOW"));
     }
 
     @Test
     void testAddRedCard() {
-        player.addRedCard();
-        assertEquals(1, player.getRedCards());
+        player.addCard("RED");
+        assertEquals(1, player.getCardCount("RED"));
     }
 
     @Test
     void testAddBlackCard() {
-        player.addBlackCard();
+        player.addCard("BLACK");
         assertTrue(player.isDisqualified());
     }
 
-    // Add more tests for other methods in Player class
+    // Here you can add more tests for other functionalities of the Player class
+    // ...
 }

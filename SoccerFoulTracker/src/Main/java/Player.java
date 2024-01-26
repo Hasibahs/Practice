@@ -1,63 +1,59 @@
 public class Player {
-    private String playerName;
-    private int yellowCards;
-    private int redCards;
-    private int blackCards;
-    private boolean isDisqualified;
+    // Attributes
+    private String name; // Name of the player
+    private int yellowCards = 0;
+    private int redCards = 0;
+    private int blackCards = 0;
+    private boolean isDisqualified = false;
 
+    // Constructor
     public Player(String name) {
-        this.playerName = name;
-        this.yellowCards = 0;
-        this.redCards = 0;
-        this.blackCards = 0;
-        this.isDisqualified = false;
+        this.name = name;
     }
 
-    public void addYellowCard() {
-        this.yellowCards++;
-    }
-
-    public void addRedCard() {
-        this.redCards++;
-    }
-
-    public void addBlackCard() {
-        this.blackCards++;
-        this.isDisqualified = true;
-    }
-
-    public boolean isDisqualified() {
-        return this.isDisqualified;
-    }
-
+    // Method to return the total number of cards
     public int getTotalCards() {
-        return this.yellowCards + this.redCards + this.blackCards;
+        return yellowCards + redCards + blackCards;
     }
 
+    // Method to add a card based on type
+    public void addCard(String cardType) {
+        switch (cardType) {
+            case "YELLOW":
+                yellowCards++;
+                break;
+            case "RED":
+                redCards++;
+                break;
+            case "BLACK":
+                blackCards++;
+                disqualify(); // Assuming a black card disqualifies the player
+                break;
+        }
+    }
+
+    // Method to get the count of a specific type of card
+    public int getCardCount(String cardType) {
+        return switch (cardType) {
+            case "YELLOW" -> yellowCards;
+            case "RED" -> redCards;
+            case "BLACK" -> blackCards;
+            default -> 0;
+        };
+    }
+
+    // Method to disqualify the player
+    public void disqualify() {
+        isDisqualified = true;
+    }
+
+    // Getter for disqualification status
+    public boolean isDisqualified() {
+        return isDisqualified;
+    }
+
+    // Getter for the player's name
     public String getPlayerName() {
-        return this.playerName;
-    }
-
-    public int getYellowCards() {
-        return yellowCards;
-    }
-
-    public int getRedCards() {
-        return redCards;
-    }
-
-    public int getBlackCards() {
-        return blackCards;
-    }
-
-    @Override
-    public String toString() {
-        return "Player{" +
-                "playerName='" + playerName + '\'' +
-                ", yellowCards=" + yellowCards +
-                ", redCards=" + redCards +
-                ", blackCards=" + blackCards +
-                ", isDisqualified=" + isDisqualified +
-                '}';
+        return name;
     }
 }
