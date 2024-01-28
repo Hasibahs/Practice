@@ -1,22 +1,18 @@
 public class Player {
-    // Attributes
-    private String name; // Name of the player
+    private String name;
     private int yellowCards = 0;
     private int redCards = 0;
     private int blackCards = 0;
     private boolean isDisqualified = false;
 
-    // Constructor
     public Player(String name) {
         this.name = name;
     }
 
-    // Method to return the total number of cards
     public int getTotalCards() {
         return yellowCards + redCards + blackCards;
     }
 
-    // Method to add a card based on type
     public void addCard(String cardType) {
         switch (cardType) {
             case "YELLOW":
@@ -27,12 +23,11 @@ public class Player {
                 break;
             case "BLACK":
                 blackCards++;
-                disqualify(); // Assuming a black card disqualifies the player
+                disqualify();
                 break;
         }
     }
 
-    // Method to get the count of a specific type of card
     public int getCardCount(String cardType) {
         return switch (cardType) {
             case "YELLOW" -> yellowCards;
@@ -42,17 +37,14 @@ public class Player {
         };
     }
 
-    // Method to disqualify the player
     public void disqualify() {
         isDisqualified = true;
     }
 
-    // Getter for disqualification status
     public boolean isDisqualified() {
         return isDisqualified;
     }
 
-    // Getter for the player's name
     public String getPlayerName() {
         return name;
     }

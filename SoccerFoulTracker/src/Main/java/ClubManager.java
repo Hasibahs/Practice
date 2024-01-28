@@ -1,5 +1,3 @@
-package your.package.name; // replace with your actual package name
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -23,5 +21,4 @@ public class ClubManager {
         return teams;
     }
 
-    // Additional methods as needed
 }

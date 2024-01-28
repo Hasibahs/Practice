@@ -1,24 +1,24 @@
-// Ensure this import statement is present to use the List interface
+
 import java.util.ArrayList;
-import java.util.List; // This was missing from your code snippet and is necessary.
+import java.util.List;
 
 public class Team {
     private String teamName;
-    private List<Player> players; // Removed the 'com.soccer.' prefix
+    private List<Player> players;
 
     public Team(String name) {
         this.teamName = name;
         this.players = new ArrayList<>();
     }
 
-    public void addPlayer(Player player) { // Removed the 'com.soccer.' prefix
+    public void addPlayer(Player player) {
         this.players.add(player);
     }
 
-    public Player getFairPlayAwardPlayer() { // Removed the 'com.soccer.' prefix
+    public Player getFairPlayAwardPlayer() {
         Player fairPlayPlayer = null;
         int minCards = Integer.MAX_VALUE;
-        for (Player player : players) { // Removed the 'com.soccer.' prefix
+        for (Player player : players) {
             if (!player.isDisqualified()) {
                 int totalCards = player.getTotalCards();
                 if (totalCards < minCards) {
@@ -42,7 +42,7 @@ public class Team {
         return teamName;
     }
 
-    public List<Player> getPlayers() { // Removed the 'com.soccer.' prefix
+    public List<Player> getPlayers() {
         return new ArrayList<>(players);
     }
 }

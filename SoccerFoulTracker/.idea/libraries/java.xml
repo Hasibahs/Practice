@@ -4,7 +4,6 @@
     <JAVADOC />
     <SOURCES>
       <root url="file://$PROJECT_DIR$/src/Main/java" />
-      <root url="file://$PROJECT_DIR$/src/test/Java" />
     </SOURCES>
   </library>
 </component>

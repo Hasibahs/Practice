@@ -1,16 +1,24 @@
 import java.util.Scanner;
+import java.io.InputStream;
+import java.io.PrintStream;
 
 public class InputHandler {
-    private Scanner scanner = new Scanner(System.in);
+    private final Scanner scanner;
+    private final PrintStream out;
+
+    public InputHandler(InputStream in, PrintStream out) {
+        this.scanner = new Scanner(in);
+        this.out = out;
+    }
 
     public Team createTeam() {
-        System.out.print("Enter the name of the team: ");
+        out.print("Enter the name of the team: ");
         String teamName = scanner.nextLine();
         return new Team(teamName);
     }
 
     public Player createPlayer() {
-        System.out.print("Enter the name of the player: ");
+        out.print("Enter the name of the player: ");
         String playerName = scanner.nextLine();
         return new Player(playerName);
     }
@@ -24,7 +32,7 @@ public class InputHandler {
 
         System.out.print("Enter the number of black cards for " + player.getPlayerName() + ": ");
         int blackCards = scanner.nextInt();
-        scanner.nextLine(); // consume the leftover newline
+        scanner.nextLine();
 
         for (int i = 0; i < yellowCards; i++) cardManager.addYellowCard(player);
         for (int i = 0; i < redCards; i++) cardManager.addRedCard(player);
